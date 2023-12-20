@@ -1,9 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/nether_pancakes"
-  },
-  "overrides": [
-    { "predicate": {"custom_model_data": 7009}, "model": "item/nether_pancakes"}
-  ]
-}
