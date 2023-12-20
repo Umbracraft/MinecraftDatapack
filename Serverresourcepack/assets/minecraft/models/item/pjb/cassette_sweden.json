@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/pjb/cassette_sweden"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 7735
+        },
+        "model": "item/pjb/cassette_sweden"
+    }
+  ]
+}

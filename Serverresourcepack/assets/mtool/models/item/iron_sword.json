@@ -1,0 +1,29 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "mtool:item/iron_halberd"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-61.75, -90, 0],
+			"translation": [0, 5.75, -0.75],
+			"scale": [2, 2, 1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, -60],
+			"translation": [0, 4.75, -1.25],
+			"scale": [2, 2, 1]
+		},
+		"firstperson_righthand": {
+			"rotation": [-101, -89.5, 0],
+			"translation": [3, 0.75, 0],
+			"scale": [2, 2, 1]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-88.25, -263.75, 0],
+			"translation": [4.75, 0.75, 0],
+			"scale": [2, 2, 1]
+		}
+	}
+}

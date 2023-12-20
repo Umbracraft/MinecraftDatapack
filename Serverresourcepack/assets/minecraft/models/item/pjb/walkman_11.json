@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/pjb/walkman_11"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 7711
+        },
+        "model": "item/pjb/walkman_11"
+    }
+  ]
+}

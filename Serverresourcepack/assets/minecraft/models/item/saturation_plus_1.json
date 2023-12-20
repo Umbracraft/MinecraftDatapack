@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/saturation_plus_1"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 7309
+        },
+        "model": "item/saturation_plus_1"
+      }
+  ]
+}

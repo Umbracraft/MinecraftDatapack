@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/luck_minus_1"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 7304
+        },
+        "model": "item/luck_minus_1"
+      }
+  ]
+}

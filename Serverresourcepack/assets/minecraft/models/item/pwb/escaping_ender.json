@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/pwb/escaping_ender"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 7503
+        },
+        "model": "item/pwb/escaping_ender"
+      }
+  ]
+}

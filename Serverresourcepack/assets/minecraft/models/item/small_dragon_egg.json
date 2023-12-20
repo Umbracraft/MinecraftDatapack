@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/small_dragon_egg"
+  },
+  "overrides": [
+    { "predicate": {"custom_model_data": 7005}, "model": "item/small_dragon_egg"}
+  ]
+}

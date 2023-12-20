@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/pjb/cassette_an_ordinary_day"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 7740
+        },
+        "model": "item/pjb/cassette_an_ordinary_day"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/health_plus_1"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 7301
+        },
+        "model": "item/health_plus_1"
+      }
+  ]
+}
